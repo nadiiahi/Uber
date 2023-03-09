@@ -56,7 +56,7 @@ nav {
 }
 .subheader_logo {
   display: block;
-  max-width: 100%;
+  max-width: 60%;
   margin-top: 16px;
 }
 .subheader_official {
@@ -635,7 +635,7 @@ footer a:hover {
     font-size: 11px;
   }
   .subheader_logo img {
-    width: 60%;
+    width: 100%;
   }
   .subheader_official {
     font-size: 11px;
